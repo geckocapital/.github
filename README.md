@@ -1,1 +1,1 @@
-#Welcome to Gecko Capital AS
+# Welcome to Gecko Capital AS
